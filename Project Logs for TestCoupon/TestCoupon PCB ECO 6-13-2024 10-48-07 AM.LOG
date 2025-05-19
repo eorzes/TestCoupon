@@ -1,0 +1,16 @@
+Added Component: Designator=TA1(lane_width_transition)
+Added Component: Designator=TA2(lane_width_transition)
+Added Component: Designator=TA3(lane_width_transition)
+Added Component: Designator=TA4(lane_width_transition)
+Added Pin To Net: NetName=DIFF_P Pin=TA1-D
+Added Pin To Net: NetName=NetJ1_1 Pin=TA1-S
+Added Pin To Net: NetName=DIFF_P Pin=TA2-D
+Added Pin To Net: NetName=NetJ2_1 Pin=TA2-S
+Added Pin To Net: NetName=DIFF_N Pin=TA3-D
+Added Pin To Net: NetName=NetJ3_1 Pin=TA3-S
+Added Pin To Net: NetName=DIFF_N Pin=TA4-D
+Added Pin To Net: NetName=NetJ4_1 Pin=TA4-S
+Added Member To Class: ClassName=TestCoupon Member=Component TA1 Differential to Single Transition
+Added Member To Class: ClassName=TestCoupon Member=Component TA2 Differential to Single Transition
+Added Member To Class: ClassName=TestCoupon Member=Component TA3 Differential to Single Transition
+Added Member To Class: ClassName=TestCoupon Member=Component TA4 Differential to Single Transition

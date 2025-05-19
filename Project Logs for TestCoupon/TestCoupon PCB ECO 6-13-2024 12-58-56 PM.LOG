@@ -1,0 +1,4 @@
+Added Component: Designator=TA1(lane_width_transition)
+Added Pin To Net: NetName=DIFF_P Pin=TA1-D
+Added Pin To Net: NetName=NetJ1_1 Pin=TA1-S
+Added Member To Class: ClassName=TestCoupon Member=Component TA1 Differential to Single Transition

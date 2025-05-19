@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=DIFF_P Pin=J1-1
+Removed Pin From Net: NetName=DIFF_P Pin=J2-1
+Removed Pin From Net: NetName=DIFF_N Pin=J3-1
+Removed Pin From Net: NetName=DIFF_N Pin=J4-1
+Removed Member From Class: ClassName=LANE Member=DIFF_N
+Removed Member From Class: ClassName=LANE Member=DIFF_P
+Add Component: Footprint Not Found lane_width_transition
+Add Component: Footprint Not Found lane_width_transition
+Add Component: Footprint Not Found lane_width_transition
+Add Component: Footprint Not Found lane_width_transition
+Add Pin To Net: Unknown Pin: Pin TA1-D
+Add Pin To Net: Unknown Pin: Pin TA2-D
+Add Pin To Net: Unknown Pin: Pin TA3-D
+Add Pin To Net: Unknown Pin: Pin TA4-D
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Net: Name=NetJ4_1
+Add Class Member: Failed to add class member : Component TA1 Differential to Single Transition
+Add Class Member: Failed to add class member : Component TA2 Differential to Single Transition
+Add Class Member: Failed to add class member : Component TA3 Differential to Single Transition
+Add Class Member: Failed to add class member : Component TA4 Differential to Single Transition
+Added Member To Class: ClassName=LANE Member=Wire NetJ1_1
+Added Member To Class: ClassName=LANE Member=Wire NetJ2_1
+Added Member To Class: ClassName=LANE Member=Wire NetJ3_1
+Added Member To Class: ClassName=LANE Member=Wire NetJ4_1

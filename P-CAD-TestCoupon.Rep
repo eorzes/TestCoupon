@@ -1,0 +1,52 @@
+Export log for : P-CAD-TestCoupon.Rep
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle EF4X15TOP1
+AddingPadStyle EF14X5TOP1
+AddingPadStyle EF39X39TOP1
+AddingPadStyle EF69X69TOP1
+AddingPadStyle P:EX87Y87D591
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX24Y24D121
+Adding ViaStyle V:EX20Y20D101
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding TextStyle T:H40W10
+Adding PatternDef lane_width_transition_1
+Adding PatternDef lane_width_transition_2
+Adding PatternDef FIDUCIAL_TOP_C100-200_1
+Adding PatternDef FIDUCIAL_TOP_C100-200_2
+Adding PatternDef SAMTEC_SMA-J-P-H-ST-MT1_1
+Adding CompDef lane_width_transition_1
+Adding CompDef lane_width_transition_2
+Adding CompDef FIDUCIAL_TOP_C100-200_1
+Adding CompDef FIDUCIAL_TOP_C100-200_2
+Adding CompDef SAMTEC_SMA-J-P-H-ST-MT1_1
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Free Text Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+ 
+EndLog
